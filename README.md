@@ -1,7 +1,7 @@
 ## Bienvenidos a mi perfil 👋
 
 <!--
-**VictorSosa-dev/VictorSosa-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**VictorSosa-dev/VictorSosa-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <p>
   <h1 align="center"><b>Hola, soy Victor. 👋</b></h1>
 </p>
