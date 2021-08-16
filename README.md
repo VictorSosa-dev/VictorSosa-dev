@@ -103,7 +103,7 @@
 <hr/>
 <h4 align="center">Gracias por visitar mi perfil. 👀</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{VictorSosa-de}/count.svg" alt="Victor :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{VictorSosa-dev}/count.svg" alt="Victor :: Visitor's Count" /></p>
 
 <hr/>
 
