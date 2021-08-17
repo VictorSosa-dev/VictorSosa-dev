@@ -10,7 +10,7 @@
 - 🔭 Actualmente soy estudiante de la licenciatura en computación. 🤔
 - 💻 Estudio en la Universidad Autónoma Metropolitana. 🙂
 - 🌱 Actualmente estoy aprendiendo DEVOPS. 🐳
-- 🎈 Igual mente me ecuentro en un Diplimado sobre el internet de las cosas. 📱
+- 🎈 Igualmente me ecuentro en un Diplimado sobre el internet de las cosas. 📱
 - ⚡ Me gusta trabajar en equipo
 
 <br><hr>
